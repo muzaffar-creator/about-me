@@ -5,3 +5,4 @@
 - и главное, научился работать с компьютером в целом
 Желаю всем **удачи** в этом деле
 мой профиль: [GitHub](https://github.com/muzaffar-creator)
+![image](GoodLuck.png)
